@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Sripathy 
 
-<!--
-**sripathydev/sripathydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 3rd year Student @ SRM Institute of Science and Technology  
+- Passionate about Python, Machine Learning, and Git  
+- Currently learning and growing — open to exploring new tech and collaborations  
+- No public projects yet, but always building and experimenting!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠Skills & Tools
+- Python
+- Machine Learning (ML)
+- Git & GitHub
+
+---
+
+###  What I'm up to
+- Deepening my understanding of Python and ML concepts
+- Exploring open-source and contributing soon!
+- Eager to connect with fellow learners and developers
+
+---
+
